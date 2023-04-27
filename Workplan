@@ -1,0 +1,19 @@
+Plan of attack
+
+# Step 1: Train neural net
+
+## Fine tune model
+
+### Figure out network stuff (e.g., Google collab)
+### Make training data processable
+### Train new parameters
+
+## Get model to output correct number of letters
+
+## Get model to assign probabilities / feasibilities to proposed answers
+
+# Step 2: Joint estimation
+
+## 
+
+## Produce ordered list of likeliest N answers
